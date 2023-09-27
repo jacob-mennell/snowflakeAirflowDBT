@@ -2,7 +2,7 @@
 
 "Data Engineering with Apache Airflow, Snowflake & dbt" project repository. This project is based on the following [Snowflake Guide](https://quickstarts.snowflake.com/guide/data_engineering_with_apache_airflow/index.html?index=..%2F..index) for data engineering with Apache Airflow, Snowflake, and dbt.
 
-## Introduction
+## Introduction 
 
 #### Snowflake
 Snowflake, a Data Cloud platform, provides a forward-looking solution that simplifies data pipelines, allowing you to shift focus from infrastructure management to data and analytics.
